@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pwVisi">
+        Menjadi Program Studi penghasil sumber daya manusia profesional yang berintegritas, kreatif dan kompetitif di bidang Perjalanan Wisata.
+    </string>
+
+<!--    misi-->
+    <string name="pwMisi1">
+        1.  Menyelenggarakan program pendidikan Perjalanan Wisata jenjang D3 dengan kurikulum yang mengacu pada SN-PT dan dilandasi oleh nilai-nilai keimanan kepada Tuhan Yang Maha Esa.
+    </string>
+    <string name="pwMisi2">
+        2.  Menyiapkan tenaga profesional dan wirausahawan bidang pariwisata yang berdaya saing nasional dan global.
+    </string>
+    <string name="pwMisi3">
+        3.  Menyelenggarakan penelitian di bidang pariwisata sesuai perkembangan ilmu pengetahuan dan teknologi.
+    </string>
+    <string name="pwMisi4">
+        4.  Menyelenggarakan pengabdian kepada masyarakat untuk mengembangkan pariwisata sesuai budaya dan kearifan lokal.
+    </string>
+    <string name="pwMisi5">
+        5.  Menjalin kerjasama secara berkelanjutan dengan pemangku kepentingan di bidang pariwisata.
+    </string>
+<!--    tutupmisi-->
+
+<!--    tps-->
+    <string name="pwTps1">
+        1.  Menghasilkan ahli madya yang berintegritas, kreatif dan kompetitif di bidang perjalanan wisata.
+    </string>
+    <string name="pwTps2">
+        2.  Menghasilkan tenaga profesional dan wirausahawan bidang pariwisata yang berdaya saing nasional dan global.
+    </string>
+    <string name="pwTps3">
+        3.  Menghasilkan penelitian terapan untuk mengembangkan pariwisata lokal dan nasional.
+    </string>
+    <string name="pwTps4">
+        4.  Meningkatkan kesadaran dan kesejahteraan masyarakat melalui pengabdian kepada masyarakat bidang pariwisata.
+    </string>
+    <string name="pwTps5">
+        5.  Meningkatkan kualitas kerjasama yang saling menguntungkan dengan pemangku kepentingan.
+    </string>
+<!--    tutup tps-->
+</resources>

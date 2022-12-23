@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="akunBDvisi">
+        Menjadi program studi vokasi yang bermutu, inovatif, dan unggul dalam ilmu pengetahuan dan teknologi terapan bidang ilmu akuntansi.
+    </string>
+
+<!--    misi-->
+    <string name="akunBDmisi1">
+        1.  Menyelenggarakan program pendidikan akuntansi vokasi yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri, dan
+    </string>
+    <string name="akunBDmisi2">
+        2.  Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan
+    </string>
+    <string name="akunBDmisi3">
+        3.  Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi
+    </string>
+    <string name="akunBDmisi4">
+        4.  Menguatkan budaya akademik, organisasi, dan kerja yang berkarakter dan
+    </string>
+    <string name="akunBDmisi5">
+        5.  Menjalin kerjasama secara berkelanjutan dengan pihak
+    </string>
+<!--    tutup misi-->
+
+<!--    tps-->
+    <string name="akunBDtps1">
+        1.  Menghasilkan lulusan yang berakhlak mulia, terampil, disiplin, mandiri, dan memiliki keahlian iptek terapan di bidang
+    </string>
+    <string name="akunBDtps2">
+        2.  Mengembangkan pengetahuan dan teknologi terapan bidang akuntansi yang memajukan penerapan teknologi di industri dan
+    </string>
+    <string name="akunBDtps3">
+        3.  Meningkatkan budaya akademik, organisasi, dan kerja yang sehat dan dinamis sebagai basis kerja sama dengan pemangku kepentingan guna mengembangkan penerapan teknologi dan memajukan kemandirian
+    </string>
+    <string name="akunBDtps4">
+        4.  Menerapkan manajemen program studi modern dalam pengelolaan pendidikan, penelitian, dan pengabdian kepada
+    </string>
+    <string name="akunBDtps5">
+        5.  Mewujudkan kepakaran bidang teknologi akuntansi dan bisnis yang bermanfaat dan diakui secara nasional dan
+    </string>
+<!--    tutup tps-->
+
+<!--    sps-->
+    <string name="akunBDsps1">
+        1.  Meningkatnya kualitas lulusan Program Studi D4 Akuntansi Bisnis Digital
+    </string>
+    <string name="akunBDsps2">
+        2.  Meningkatnya kualitas kurikulum dan pembelajaran Program Studi D4 Akuntansi Bisnis Digital
+    </string>
+    <string name="akunBDsps3">
+        3.  Meningkatnya kualitas dosen Program Studi D4 Akuntansi Bisnis Digital
+    </string>
+    <string name="akunBDsps4">
+        4.  Meningkatnya tata kelola Program Studi D4 Akuntansi Bisnis Digital
+    </string>
+<!--    tutup sps-->
+</resources>

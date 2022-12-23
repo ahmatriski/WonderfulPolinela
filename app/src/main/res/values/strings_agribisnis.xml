@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agriVisi">
+        “Tahun 2020  Menjadi Program Studi Vokasi Bidang Agribisnis Yang Unggul Di Indonesia”
+
+        Unggul mengandung arti PS Agribisnis melakukan kegiatan akademik dan non akademik sesuai dengan standar Nasional Pendidikan dan mencapai nilai akreditasi A dari BAN-PT (Badan Akreditasi Perguruan Tinggi).
+    </string>
+
+<!--    misi-->
+    <string name="agriMisi1">
+        1.  Menyelenggarakan pendidikan vokasi yang berorientasi kepadaintegritas, kejujuran, terampil, disiplin, mandiri dan profesional.
+    </string>
+    <string name="agriMisi2">
+        2.  Melaksanakan penelitian terapandan pengabdian masyarakat dalam bidang agribisnis guna meningkatkan kualitas sumberdaya manusia dan perbaikan kehidupan sosial ekonomi masyarakat.
+    </string>
+    <string name="agriMisi3">
+        3.  Membentuk  peserta didik menjadi masyarakat yang  produktif, kreatif, dan  profesional,serta berorientasi wirausaha untuk menciptakan lapangan pekerjaan.
+    </string>
+    <string name="agriMisi4">
+        4.  Membuka, mengembangkan dan memperkuat kerjasama dengan instansi pemerintah, perusahaan agribisnis  dan masyarakat pertanian.
+    </string>
+<!--    tutupmisi-->
+
+
+<!--    tps-->
+    <string name="agriTps1">
+        1.  Menghasilkan lulusan yang memiliki kompetensidibidang agribisnis dan berjiwa wirausaha serta berintegritas yang mampu bersaing secara nasional dan global
+    </string>
+    <string name="agriTps2">
+        2.  Menghasilkan teknologi tepat guna berupa rekayasa sosial di bidang agribisnis untuk meningkatkan   pengetahuan dan kesejahteraan masyarakat melalui penelitian.
+    </string>
+    <string name="agriTps3">
+        3.  Menghasilkan kegiatan pengabdian kepada masyarakat di bidang agribisnis yang meningkatkan perbaikan kehidupan sosial ekonomi
+    </string>
+    <string name="agriTps4">
+        4.  Menghasilkan kerjasama yang saling menguntungkan dan berkualitasdengan stake holder di  bidang  agribisnis
+    </string>
+    <string name="agriTps5">
+        5.  Menjadikan Program Studi Agribisnis sebagai program studi penyelenggara pendidikan vokasi yang efektif,  efisien,  dan produktif.
+    </string>
+<!--    tutup tps-->
+</resources>

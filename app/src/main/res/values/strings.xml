@@ -1,0 +1,100 @@
+<resources>
+    <string name="about">
+        Aplikasi Ini merupakan aplikasi Informasi mengenai Kampus POLITEKNIK NEGERI LAMPUNG
+    </string>
+    <string name="app_name">WonderfulPolinela</string>
+    <!--Manajemen Informatika-->
+    <string name="desMi">
+    Program Studi (PS) Manajemen Informatika Politeknik Negeri Lampung (Polinela) merupakan salah satu program studi jenjang Diploma Tiga (DIII) di bawah jurusan Ekonomi dan Bisnis yang didirikan berdasarkan Surat Keputusan Dirjen Dikti nomor 2691/D/T/2006, saat ini program studi manajemen informatika memiliki akreditasi B berdasarkan surat keputusan  BAN-PT No. 415/SK/BAN-PT/Akred/Dpl-III/X/2014. Baik Dosen Matakuliah dan Mahasiswa telah mengikuti berbagai sertifikasi international maupun nasional. Beberapa dosen MI memiliki sertifat sebagai Assesor Komptensi yang dikeluarkan oleh BNSP.
+    </string>
+
+    <string name="visiMI">
+        Tahun 2025 menjadi program studi yang menghasilkan sumber daya manusia bermutu, inovatif  dan berdaya bersaing dalam ilmu pengetahuan dan teknologi terapan bidang sistem informasi.
+    </string>
+
+    <string name="misiMI1">
+        1.Menyelenggarakan pendidikan vokasi di bidang informatika yang berorientasi pada akhlak mulia, terampil, inovatif, disiplin, mandiri dan berdaya saing.
+    </string>
+    <string name="misiMI2">
+        2.Melaksanakan penelitian terapan di bidang informatika untuk meningkatkan kualitas kehidupan masyarakat.
+    </string>
+    <string name="misiMI3">
+        3.Melaksanakan pengabdian kepada masyarakat atas dasar tanggung jawab sosial demi kepentingan masyarakat.
+    </string>
+    <string name="misiMI4">
+        4.Menjalin kerja sama berkelanjutan dengan pemangku kepentingan dalam rangka peningkatan kualitas tridharma perguruan tinggi.
+        </string>
+    <string name="misiMI5">
+        5.Mengembangkan tata kelola organisasi yang sehat dengan manajemen transparan.
+    </string>
+
+    <string name="tpsMi1">
+        1.Menghasilkan lulusan di bidang  Sistem Informasi yang kompetitif, disiplin, dan berwawasan serta mampu bersaing di tingkat nasional dan mampu beradaptasi secara global
+    </string>
+    <string name="tpsMi2">
+        2.Menghasilkan pengetahuan dan teknologi melalui penelitian yang terintegrasi dengan kebutuhan masyarakat
+    </string>
+    <string name="tpsMi3">
+        3.Menghasilkan produk dan jasa untuk masyarakat melalui kegiatan pendidikan berkelanjutan, kemitraan, rintisan usaha dan konsultasi bisnis
+    </string>
+    <string name="tpsMi4">
+        4.Meningkatkan efektivitas, inovasi, mutu dan relevansi pelaksanaan Tri Darma untuk meningkatkan daya saing melalui kerjasama dengan pemangku kepentingan
+    </string>
+    <!--tutup manajemen informatika-->
+
+
+    <!--Agribisnis Pangan-->
+    <string name="visiAgri1">
+        Menjadi Program Studi yang bermutu, inovatif, dan unggul dalam bidang Ipteks Terapan bidang agribisnis pangan
+    </string>
+
+    <string name="misiAgri1">
+        1.Menyelenggarakan Pendidikan Tinggi Vokasi bidang agribisnis pangan yang berorientasi pada ahklak mulia, terampil, disiplin, mandiri, dan kompetitif.
+    </string>
+    <string name="misiAgri2">
+        2.Melaksanakan kajian keilmuan dan penelitian terapan bidang agribisnis pangan untuk menopang pendidikan dan pengajaran.
+    </string>
+    <string name="misiAgri3">
+        3.Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan dalam bidang agribisnis pangan.
+    </string>
+    <string name="misiAgri4">
+        4.Menguatkan budaya akademik, organisasi, dan kerja yang berkarakter dan beretika.
+    </string>
+    <string name="misiAgri5">
+        5.Menjalin kerjasama secara berkelanjutan dengan industri dan stakeholders pihak lain.
+    </string>
+
+    <string name="tpsAgri1">
+        1.Menghasilkan lulusan yang berakhlak mulia, terampil, disiplin, mandiri, dan memiliki keahlian di bidang iptek terapan agribisnis pangan.
+    </string>
+    <string name="tpsAgri2">
+        2.Mengembangkan Ipteks terapan bidang  agribisnis pangan yang dapat memajukan penerapan ipteks di industri dan masyarakat.
+    </string>
+    <string name="tpsAgri3">
+        3.Meningkatkan budaya akademik, organisasi, dan kerja yang sehat dan dinamis sebagai basis kerja sama dengan pemangku kepentingan guna mengembangkan penerapan teknologi agribisnis pangan dan memajukan kemandirian masyarakat.
+    </string>
+    <string name="tpsAgri4">
+        4.Menerapkan manajemen Program Studi Agribisnis Pangan perguruan tinggi modern dalam pengelolaan pendidikan, penelitian, dan pengabdian kepada masyarakat.
+    </string>
+    <string name="tpsAgri5">
+        5.Mewujudkan kepakaran bidang agribisnis pangan yang bermanfaat dan diakui secara nasional dan internasional.
+    </string>
+
+    <string name="sasaranAgri1">
+        1.Menghasilkan lulusan D4 yang memiliki kompetensi hardskill dan softskill di bidang agribisnis pangan dan diterima di pasar kerja nasional dan international.
+    </string>
+    <string name="sasaranAgri2">
+        2.Menghasilkan lulusan yang dapat menempati posisi pekerjaan pada level middle up management pada perusahaan agribisnis
+    </string>
+    <string name="sasaranAgri3">
+        3.Menghasilkan lulusan yang memiliki kemampuan kewirausahaan dan mampu menciptakan peluang usaha secara mandiri
+    </string>
+    <string name="sasaranAgri4">
+        4.Menghasilkan publikasi nasional dan international bereputasi
+    </string>
+    <string name="title_activity_maps_polinela">MapsPolinelaActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!--Tutup Agribisnis Pangan-->
+
+</resources>

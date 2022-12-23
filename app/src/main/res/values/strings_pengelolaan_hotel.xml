@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hotelVisi">
+        Menjadi program studi unggulan penghasil sumber daya manusia yang unggul, terampil, cekatan, dan berdaya saing tinggi dalam industri perhotelan yang berskala nasional dan internasional.
+    </string>
+
+<!--    Misi-->
+    <string name="hotelMisi1">
+        1.  Menyelenggarakan pendidikan dan pelatihan sesuai dengan kurikulum yang memiliki basis kompetensi pada industri perhotelan
+    </string>
+    <string name="hotelMisi2">
+        2.  Melibatkan sektor industri perhotelan terkait dalam proses pengajaran praktik.
+    </string>
+    <string name="hotelMisi3">
+        3.  Menyediakan sarana laboratorium dalam kampus untuk menunjang praktikum mahasiswa
+    </string>
+    <string name="hotelMisi4">
+        4.  Menjalin kerjasama dengan asosiasi profesi dan pemangku kepentingan dalam sektor perhotelan baik di dalam negeri atau diluar negeri
+    </string>
+<!--    tutup Misi-->
+
+<!--    tps-->
+    <string name="hotelTps1">
+        1.  Menghasilkan lulusan yang mampu bekerja pada level pekerjaan managerial (middle dan top manager) yang berjiwa kepemimpinan.
+    </string>
+    <string name="hotelTps2">
+        2.  Menghasilkan lulusan yang memiliki kemampuan tinggi dalam analisis peluang bisnis.
+    </string>
+    <string name="hotelTps3">
+        3.  Menghasilkan lulusan yang mampu merencanakan, mengelola, memecahkan masalah, dan menerapkan iptek untuk melaksanakan pekerjaan manajerial dibidang perhotelan.
+    </string>
+    <string name="hotelTps4">
+        4.  Menghasilkan lulusan yang mampu melakukan penelitian terapan dan mampu menganalisis suatu percobaan dibidang perhotelan.
+    </string>
+    <string name="hotelTps5">
+        5.  Menghasilkan lulusan yang memiliki kemampuan menjadi wirausaha dibidang industri perhotelan (hospitality entrepreneurship)
+    </string>
+    <string name="hotelTps6">
+        6.  Meneyelenggarakan kerja sama yang bersinergi untuk meningkatkan potensial soft skill dan kompetensi sehingga lulusan siap masuk dunia kerja atau berwirausaha.
+    </string>
+<!--    tutup tps-->
+
+<!--    sps-->
+    <string name="hotelSps1">
+        1.  Terselenggaranya pendidikan vokasi yang mengacu pada kurikulum berpedoman dengan SKKNI berorientasi
+    </string>
+    <string name="hotelSps2">
+        2.  Terselenggaranya pengembangan Iptek terapan dibidang budidaya dan pengelolaan kopi melalui penelitian dan pengabdian kepada masyarakat.
+    </string>
+    <string name="hotelSps3">
+        3.  Terselenggaranya pendidikan belajar mengajar (PMB) berbasis uji kompetensi yang bersertifikasi.
+    </string>
+    <string name="hotelSps4">
+        4.  Terselenggaranya pusat pendidikan vokasi yang menerapkan, mengembangkan pengetahuan, keterampilan pengelolaan perhotelan dan kewirausahaan hospitaliti, yang bersinergi dengan dunia industri perhotelan, dalam rangka menjawab tantangan dan kebutuhan dunia kerja di bidang perhotelan.
+    </string>
+
+<!--    tutupsps-->
+</resources>

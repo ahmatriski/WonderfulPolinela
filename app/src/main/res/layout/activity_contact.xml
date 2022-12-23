@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#CACCC4"
+    android:paddingTop="10dp"
+    tools:context=".ContactActivity">
+
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="Layanan Politeknik Negeri Lampung"
+        android:textColor="#050505"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:gravity="center"
+        android:textStyle="italic"
+        android:textColor="#050505"
+        android:textSize="15sp" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/card1"
+        app:cardBackgroundColor="@color/blue"
+        android:layout_below="@id/text2"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/hlmnimage1"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/ig" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/nmhlmn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingLeft="80dp"
+            android:text="Instagram"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/desk1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingTop="30dp"
+            android:paddingLeft="80dp"
+            android:text="(@politeknik_negeri_lampung)"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/white"
+        android:id="@+id/card2"
+        android:layout_below="@id/card1"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/img2"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/fb" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/nmhlmn2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingLeft="80dp"
+            android:text="Facebook"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/desk2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingTop="30dp"
+            android:paddingLeft="80dp"
+            android:text="(humaspolinela)"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/blue"
+        android:id="@+id/card3"
+        android:layout_below="@id/card2"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/img3"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/twitter" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/nmhlmn3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingLeft="80dp"
+            android:text="Twitter"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/desk3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingTop="30dp"
+            android:paddingLeft="80dp"
+            android:text="(@polinelaonline)"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/white"
+        android:id="@+id/card4"
+        android:layout_below="@id/card3"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/img4"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/web" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/nmhlmn4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingLeft="80dp"
+            android:text="Website"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/desk4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingTop="30dp"
+            android:paddingLeft="80dp"
+            android:text="(www.polinela.ac.id)"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/blue"
+        android:id="@+id/card5"
+        android:layout_below="@id/card4"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/img5"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/ytb" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/nmhlmn5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingLeft="80dp"
+            android:text="Youtube"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/desk5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingTop="30dp"
+            android:paddingLeft="80dp"
+            android:text="(Politeknik Negeri Lampung)"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#FFFFFF"
+        android:id="@+id/card6"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="487dp"
+        android:layout_marginBottom="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/img6"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:src="@drawable/email" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/nmhlmn6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingLeft="80dp"
+            android:text="G-Mail"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/desk6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:paddingTop="30dp"
+            android:paddingLeft="80dp"
+            android:text="(humas@polinela.ac.id)"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

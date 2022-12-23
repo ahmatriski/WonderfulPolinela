@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sejarah1">
+        Dalam rangka memenuhi kebutuhan tenaga terampil dan profesional di bidang pertanian, Pemerintah Indonesia membuka sistem pendidikan baru yang berbentuk Politeknik Pertanian. Politeknik Pertanian Negeri di Propinsi Lampung ini resmi terbentuk dengan diterbitkannya SK. Dirjen Dikti Depdikbud No.14/Dikti/Kep/1984, tanggal 7 April 1984 tentang Pembentukan Politeknik Pertanian Universitas Lampung. Kemudian dalam rangka mempersiapkan pengembangan Politeknik Pertanian, yang meliputi pengembangan fisik kampus, tenaga pengajar, dan pengembangan kurikulum, maka pada tanggal 3 Desember 1985, melalui SK. Dirjen Dikti Depdikbud No.79/Dikti/Kep/1985, dibentuk Penanggung Jawab Unit Pelaksana Proyek pada Proyek Pengembangan Pendidikan Politeknik Pertanian Universitas Lampung.
+    </string>
+
+    <string name="sejarah2">
+        Pada tanggal 3 Nopember 1988 Politeknik Pertanian Universitas Lampung menempati kampus baru di Jalan Soekarno-Hatta, Rajabasa, Bandar Lampung, dan pada tanggal 15 Desember 1988 Penanggungjawab Pengembangan Politeknik Pertanian Negeri Lampung dilantik oleh Rektor Universitas Lampung. Pada tanggal 7 April 2001, berdasarkan SK. Mendiknas RI No. 036/O/2001 tentang Pendirian Politeknik Pertanian Negeri Bandar Lampung, Politeknik Pertanian Negeri Lampung resmi mandiri menjadi salah satu bentuk Perguruan Tinggi Negeri (PTN) di Propinsi Lampung dengan nama Politeknik Pertanian Negeri Bandar Lampung.
+    </string>
+
+    <string name="sejarah3">
+        Berdasarkan rapat Senat Politeknik tanggal 19 Oktober 2002 telah ditetapkan perubahan nama Politeknik menjadi Politeknik Negeri Lampung. Pertimbangan perubahan nama tersebut merupakan rencana pengembangan Politeknik di masa mendatang agar memperluas bidang studi yang dapat dilaksanakan dan dibutuhkan masyarakat, misalnya bidang studi ekonomi secara umum, keteknikan, manajemen dan sebagainya.
+    </string>
+
+    <string name="profilvisi">
+        Menjadi politeknik yang bermutu, inovatif, dan unggul dalam ilmu pengetahuan dan teknologi terapan.
+    </string>
+
+    <string name="profilmisi1">
+        1.  Mewujudkan Pendidikan Tinggi Vokasi yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri, dan kompetitif
+    </string>
+    <string name="profilmisi2">
+        2.  Mewujudkan kajian keilmuan dalam penelitian terapan dan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan
+    </string>
+    <string name="profilmisi3">
+        3.  Mewujudkan budaya akademik, organisasi, dan kerja yang berkarakter dan beretika
+    </string>
+    <string name="profilmisi4">
+        4.  Mewujudkan kerjasama kelembagaan dengan stakeholder secara berkelanjutan.
+    </string>
+
+    <string name="prodilts1">
+        1.  Terwujudnya pendidikan tinggi vokasi dalam menghasilkan lulusan yang berakhlak mulia, terampil, disiplin, mandiri, dan kompetitif
+    </string>
+    <string name="prodilts2">
+        2.  Terwujudnya kajian keilmuan dalam penelitian terapan dan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan
+    </string>
+    <string name="prodilts3">
+        3.  Terwujudnya budaya akademik, organisasi, dan kerja yang berkarakter serta beretika
+    </string>
+    <string name="prodilts4">
+        4.  Terwujudnya kerjasama kelembagaan dengan stakeholder yang saling menguntungkan pada level nasional dan internasional secara berkelanjutan.
+    </string>
+</resources>

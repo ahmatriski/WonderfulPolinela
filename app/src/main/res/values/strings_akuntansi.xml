@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="akunVisi">
+        “Tahun 2020 menjadi Program Studi Penyelnggara Pendidikan Vocasi Terbaik di Indonesia dalam menghasilkan lulusan yang kompeten, kompetitif dan beretika dalam penerapan ilmu akuntansi”
+    </string>
+
+<!--    misi-->
+    <string name="akunMisi1">
+        1.  Menyelenggarakan pendidikan vokasi yang berorientasi pada akhlak mulia, kompeten, kompetitif, disiplin, dan mandiri.
+    </string>
+    <string name="akunMisi2">
+        2.  Melaksanakan penelitian terapan dibidang akuntansi untuk menunjang pendidikan dan transfer IPTEKS guna meningkatkan kualitas kehidupan masyarakat
+    </string>
+    <string name="akunMisi3">
+        3.  Menyelenggarakan pengabdian kepada masyarakat atas dasar tanggung jawab sosial dan kepentingan masyarakat.
+    </string>
+    <string name="akunMisi4">
+        4.  Menjalin kerjasama dengan stake holder di bidang akuntansi yang berkelanjutan
+    </string>
+    <string name="akunMisi5">
+        5.  Melaksanakan organisasi yang sehat dengan manajemen yang transparan
+    </string>
+<!--    tutup misi-->
+
+<!--    tps-->
+    <string name="akunTps1">
+       1.   Menghasilkan lulusan akuntansi yang memiliki kompetensi di bidang akuntansi, kompetitif, disiplin, dan berwawasan serta mampu bersaing baik di tingkat lokal maupun nasional
+    </string>
+    <string name="akunTps2">
+        2.  Menghasilkan pengetahuan dan teknologi melalui penelitian yang terintegrasi dengan pendidikan.
+    </string>
+    <string name="akunTps3">
+        3.  Memberikan pelayanan kepada masyarakat lokal maupun nasional melalui aktifitas edukatif, teknis, dan profesional.
+    </string>
+    <string name="akunTps4">
+        4.  Meningkatkan kualitas kerjasama yang saling menguntungkan dengan stake holder di bidang akuntansi baik secara lokal, nasional, maupun internasional.
+    </string>
+    <string name="akunTps5">
+        5.  Menjadikan Program Studi Akuntansi sebagai penyelenggara pendidikan yang efektif, efisien dan produktif.
+    </string>
+<!--    tutup tps-->
+</resources>

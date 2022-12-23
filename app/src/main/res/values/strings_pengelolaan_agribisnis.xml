@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PengAgriVisi">
+        “Menjadi Program Studi Vokasi Bidang Pengelolaan Agribisnis (Agribusiness Management) yang Terintegrasi, berkarakter kewirausahaan, dan unggul dalam ilmu pengetahuan dan teknologi terapan”
+    </string>
+<!--misi-->
+    <string name="PengAgriMisi1">
+        1.  Mewujudkan pendidikan vokasi bidang Pengelolaan Agribisnis (Agribusiness Management) yang berkelanjutan, berorientasi kepada integritas, kejujuran, terampil, disiplin, dan mandiri.
+    </string>
+    <string name="PengAgriMisi2">
+        2.  Mewujudkan penelitian terapan dan pengabdian masyarakat dalam bidang Pengelolaan Agribisnis (Agribusiness Management) yang berkelanjutan guna meningkatkan kualitas sumberdaya manusia dan perbaikan kehidupan sosial ekonomi masyarakat
+    </string>
+    <string name="PengAgriMisi3">
+        3.  Membentuk peserta didik menjadi masyarakat ilmiah yang  produktif, kritis, kreatif dan inovatif, serta berorientasi wirausaha untuk menciptakan lapangan pekerjaan.
+    </string>
+    <string name="PengAgriMisi4">
+        4.  Membuka, mengembangkan, dan memperkuat kerjasama dengan dunia usaha-dunia industri, instansi pemerintah, dan masyarakat pertanian menuju SDG (Sustainable Development Goals).
+    </string>
+<!--tutup misi-->
+
+<!--    tps-->
+    <string name="PengAgriTps1">
+        1.  Menghasilkan lulusan yang kompeten di bidang Pengelolaan Agribisnis (Agribusiness Management) yang terintegrasi, holistik dan memiliki jiwa wirausaha serta berintegritas yang mampu bersaing secara nasional dan global.
+    </string>
+    <string name="PengAgriTps2">
+        2.  Menghasilkan teknologi tepat guna berupa rekayasa sosial di bidang Pengelolaan Agribisnis (Agribusiness Management) yang terintegrasi dan holistik untuk meningkatkan pengetahuan dan kesejahteraan masyarakat melalui penelitian terapan.
+    </string>
+    <string name="PengAgriTps3">
+        3.  Menghasilkan kegiatan pengabdian kepada masyarakat di bidang Pengelolaan Agribisnis (Agribusiness Management) yang terintegrasi untuk meningkatkan perbaikan kehidupan sosial ekonomi masyarakat.
+    </string>
+    <string name="PengAgriTps4">
+        4.  Menghasilkan kerjasama yang saling menguntungkan dan berkualitas dengan dunia usaha dan dunia industri serta stakeholder di bidang Pengelolaan Agribisnis (Agribusiness Management).
+    </string>
+    <string name="PengAgriTps5">
+        5.  Menjadikan Program Studi Pengelolaan Agribisnis (Agribusiness Management) sebagai program studi dengan tatakelola pendidikan vokasi yang unggul, efektif dan efisien.
+    </string>
+<!--    tutup tps-->
+</resources>

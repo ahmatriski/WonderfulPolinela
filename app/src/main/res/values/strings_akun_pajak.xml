@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="akpDes">
+        Program Studi D4 Akuntansi Perpajakan Politeknik Negeri Lampung ijin pendiriannya  sesuai dengan SK Menteri Riset, Teknologi, dan Pendidikan Tinggi RI No. 341/KPT/I/2016 tertanggal 13 September 2016.  Program Studi (D4) Akuntansi Perpajakan sampai didirikan memenuhi kebutuhan SDM berkualitas bidang akuntansi Perpajakan. Posisi bidang ilmu akuntansi perpajakan sangat sentral dalam pengembangan industri di Indonesia.  Perspektif bidang ilmu akuntansi perpajakan menjadi orientasi baru dalam memecahkan persoalan masyarakat dalam konsepsi secara integral.
+
+Program Studi D4 Akuntansi Perpajakan mempersiapkan mahasiswa untuk menjadi teknisi akuntansi ahli perpajakan yang menguasai pengetahuan dan keterampilan dibidang akuntansi dan dibidang perpajakan secara mendalam atas suatu entitas multinasional yang didukung kemampuan bekerjasama dan berkomunikasi secara efektif, dan bertanggungjawab terhadap pencapaian hasil kerja mandiri maupun organisasi dalam lingkup tanggung jawabnya
+    </string>
+
+    <string name="akpVisi">
+        Menjadi Program Studi Pendidikan Vokasi penghasil sumber daya manusia profesional yang berintegritas dan berdaya saing kompetitif di bidang Akuntansi dan Perpajakan
+    </string>
+
+<!--    akuntansi perpajakan misi-->
+    <string name="akpMisi1">
+        1.  Menyelenggarakan program pendidikan akuntansi perpajakan jenjang D4 dengan kurikulum yang mengacu pada SN-PT dan dilandasi oleh nilai-nilai keimanan kepada Tuhan Yang Maha Esa
+    </string>
+    <string name="akpMisi2">
+        2.  Menyelenggarakan penelitian terapan di bidang akuntansi perpajakan sesuai perkembangan ilmu pengetahuan dan teknologi
+    </string>
+    <string name="akpMisi3">
+        3.  enyelenggarakan pengabdian kepada masyarakat untuk membantu peningkatan kesejahteraan masyarakat dalam menunjang pembangunan nasional
+    </string>
+    <string name="akpMisi4">
+        4.  Menjalin kerjasama secara berkelanjutan dengan stakeholder.
+    </string>
+<!--   tutup akuntansin perpajakaan misi-->
+
+<!--    Akuntansi perpajakan TPS-->
+    <string name="akpTps1">
+        1.  Menghasilkan sarjana sains terapan dengan pengetahuan dan ketrampilan yang unggul dan kompetitif di bidang akuntansi dan perpajakan
+    </string>
+    <string name="akpTps2">
+        2.  Menghasilkan sumber daya manusia yang berkarakter dan berintegritas dalam menjalankan profesinya
+    </string>
+    <string name="akpTps3">
+        3.  Menghasilkan penelitian terapan dalam meningkatkan kompetensi dosen dan mahasiswa
+    </string>
+    <string name="akpTps4">
+        4.  Meningkatkan kompetensi masyarakat melalui pengabdian kepada masyarakat
+    </string>
+    <string name="akpTps5">
+        5.  Meningkatkan kualitas kerjasama yang saling menguntungkan dengan stakeholder
+    </string>
+<!--    tutup  Akuntansi perpajakan TP-->
+</resources>
