@@ -3,7 +3,7 @@ aplikasi ini adalah aplikasi informasi mengenai Kampus POLITEKNIK NEGERI LAMPUNG
 
 
 nama kelompok : AHMAT RISKI RAMADHAN
-                NATASYA PRAMESWARI
+                dan NATASYA PRAMESWARI
                 
                 
 Rujukan pembuatan aplikasi : APLIKASI PUM SENDIRI
